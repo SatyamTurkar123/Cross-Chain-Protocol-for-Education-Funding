@@ -10,6 +10,8 @@ This platform uses a smart contract to receive and track donations, allowing use
 
 ## Contract Address
 0x833b2c3f11014afe460ff84dd4893fe055542760
+![image](https://github.com/user-attachments/assets/efd82703-34b4-43fa-86d3-3b273e13c712)
+
 
 **Example**:
 - Ethereum: `0x1234567890abcdef1234567890abcdef12345678`
